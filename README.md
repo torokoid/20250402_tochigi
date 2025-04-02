@@ -122,7 +122,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/03/31-04/02、芳賀町観光イベントでアンケートに答えて商品に応募!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/03/31-04/02、天気がイマイチで近所のスーパーでお花ばかり撮影!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
