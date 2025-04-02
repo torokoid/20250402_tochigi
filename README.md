@@ -164,7 +164,7 @@ p.note { display: none; }
 <h2><span class="yellow">百合のお花は見事です</span></h2>
 <a href="20250402_017.JPG" target="_blank"><img src="20250402_017.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">ランも見事</span></h2>
+<h2><span class="yellow">蘭のお花も見事</span></h2>
 <a href="20250402_002.JPG" target="_blank"><img src="20250402_002.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">こちらは3色で色鮮やか</span></h2>
